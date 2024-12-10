@@ -1,2 +1,1 @@
-This project includes several sub-projects such as a unit converter, calculator, and sections for students and
-teachers.
+The project brings together diverse functionalities, offering tools for practical tasks like unit conversion and calculations, while also providing dedicated resources and sections to support learning and teaching needs.
